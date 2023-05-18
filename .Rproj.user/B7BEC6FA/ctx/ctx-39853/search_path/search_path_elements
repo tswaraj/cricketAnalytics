@@ -1,0 +1,14 @@
+.GlobalEnv
+package:plotly
+package:ggplot2
+package:shiny
+devtools_shims
+tools:rstudio
+package:stats
+package:graphics
+package:grDevices
+package:utils
+package:datasets
+package:methods
+Autoloads
+package:base

@@ -1,0 +1,28 @@
+{
+    "id": "B4C27607",
+    "path": "C:/Users/Swaraj Thakre/Desktop/spring23/STAT447/Project/cricketAnalytics/R/run-shiny-app.R",
+    "project_path": "R/run-shiny-app.R",
+    "type": "r_source",
+    "hash": "2472322439",
+    "contents": "",
+    "dirty": false,
+    "created": 1683487457387.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "tempName": "Untitled1",
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "2,2",
+        "scrollLine": "0",
+        "disableDependencyDiscovery": "1"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1683855127,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1683855127682,
+    "read_only": false,
+    "read_only_alternatives": []
+}

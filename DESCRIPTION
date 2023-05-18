@@ -1,0 +1,24 @@
+Package: cricketAnalytics
+Type: Package
+Title: Cricket Clairvoyance - Predicting Women’s Match Winners with Machine Learning
+Version: 0.1.0
+Authors@R: 
+    c(person("Swaraj", "Thakre", email = "sthakre2@illinois.edu", role = c("aut", "cre", "cph")),
+    person("Rishabh", "Agrawal", email = "ra26@illinois.edu", role = c("aut", "cph")))
+Description: Our project aims to create a data pipeline for predicting the outcome of Women’s T20 Challenge cricket matches using ball-by-ball CSV data available on the cricsheet.org website. The project’s objective is to develop a data pipeline that extracts useful features from the CSV data and transforms it into a tabular format suitable for creating visualizations and building a ML model.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Imports: 
+  dplyr,
+  zoo,
+  randomForest,
+  caret,
+  ggplot2,
+  utils,
+  shiny
+Roxygen: list(markdown = TRUE)
+ExtraData: extdata
+RoxygenNote: 7.2.3
+Depends: 
+    R (>= 2.10)
+LazyData: true
